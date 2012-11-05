@@ -1,10 +1,8 @@
 *.out
 benchmarking/
 scripts/autobot
-FFTbor
-RNAbor
-RNAcentral
 rna.ps
+FFTmultiloop
 *.a
 *.o
 test*.txt
